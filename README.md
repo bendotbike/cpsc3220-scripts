@@ -17,3 +17,4 @@ chmod +x *.sh
 
 ## Scripts (replace ```script_name``` above with the filename)
 - start_server.sh - Starts server
+- update.sh - Runs package manager's update command
