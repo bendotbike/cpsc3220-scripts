@@ -7,10 +7,13 @@ sudo apt-get install git
 cd /home/student/
 git clone https://github.com/bendotbike/cpsc3220-scripts.git scripts
 cd scripts
-chmod +x start_server.sh
+chmod +x *.sh
 ```
 
 ## Run script
 ```
-/home/student/scripts/start_server.sh
+/home/student/scripts/script_name.sh
 ```
+
+## Scripts (replace ```script_name``` above with the filename)
+- start_server.sh - Starts server
