@@ -12,5 +12,5 @@ chmod +x start_server.sh
 
 ## Run script
 ```
-cd /home/student/scripts/start_server.sh
+/home/student/scripts/start_server.sh
 ```
