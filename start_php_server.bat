@@ -1,5 +1,5 @@
 set phpPath=""
 set workingDirectory=""
-set port=
+set port=8080
 
-.\%phpPath% -S localhost:%port% -t %workingDirectory%
+%phpPath% -S localhost:%port% -t %workingDirectory%
